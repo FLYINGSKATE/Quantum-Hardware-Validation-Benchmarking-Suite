@@ -124,7 +124,7 @@ jupyter notebook quantum_hardware_validation.ipynb
 
 ## Demo
 
-[Notebook walkthrough / dashboard link]
+[[Notebook walkthrough / dashboard link]](https://colab.research.google.com/drive/1Q4WiWIbFPz2OgDZPWh7A1ytc18tR2nkg?usp=sharing)
 
 ## License
 
